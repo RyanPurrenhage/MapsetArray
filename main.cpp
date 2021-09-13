@@ -1,4 +1,4 @@
-#include "proj10_mapset.h"
+#include "mapset.h"
 #include<vector>
 using std::vector;
 #include<string>
